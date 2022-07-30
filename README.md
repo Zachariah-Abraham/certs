@@ -4,6 +4,10 @@ A free certificate / document emailing solution.
 
 A working web deployment of this is available at [certs.zac.ac](https://certs.zac.ac)
 
+## Demo
+
+A video demo of the application can be found [here](https://www.linkedin.com/posts/zaca_softwareengineering-innovation-technology-activity-6823358703325073408-97QL?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
 ## Getting Started
 
 1. Clone the repository
