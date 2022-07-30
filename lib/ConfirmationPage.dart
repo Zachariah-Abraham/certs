@@ -109,7 +109,7 @@ class ConfirmationPageState extends State<ConfirmationPage> {
                                 EdgeInsets.fromLTRB(20.0.r, 5.r, 20.r, 5.r),
                             child: SingleChildScrollView(
                               child: Text(
-                                "This is what the certificates will look like. If it looks good, press \"Done\", otherwise press the back button on the top left corner to make changes. When you press \"Done\", you will be required to sign in to your GMail account and grant permissions to send emails.",
+                                "This is what the certificates will look like. If it looks good, press \"Done\", otherwise press the back button on the top left corner to make changes. When you press \"Done\", you will be required to sign in to your Gmail account and grant permissions to send emails.",
                                 textScaleFactor: 2.sp,
                               ),
                             ),
